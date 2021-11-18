@@ -1,2 +1,0 @@
-##Codigo integrales usano polinomios##
-x=1
